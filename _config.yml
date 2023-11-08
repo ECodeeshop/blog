@@ -1,0 +1,51 @@
+title: "Affiliates"
+email: sales@codeeshop.com
+contact_us_submit: https://codeeshop.com/module/ces_github/api
+timezone: UTC
+baseurl: "/affiliates-jekyll-theme"
+permalink: "/:title/"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+author: Sal
+paginate: 30
+disqus: 'demowebsite'
+locale: en_us
+lang: en_us
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: UA-113961478-1
+
+# Authors
+authors:
+  anant:
+    name: Code-E-Shop
+    display_name: Anant
+    avatar: 'assets/images/me_github_profile.png'
+    email: anantnegi8@gmail.com
+    web: 
+    twitter: https://twitter.com/anantnegik7
+    description: "Software Developer"
+
+# Social
+social:
+  instagram: https://www.instagram.com/code_e_shop/
+  facebook : https://www.facebook.com/codeeshop
+  twitter  : https://twitter.com/codeeshop1                
+  github   : https://github.com/codeeshop-oc
+  youtube  : https://www.youtube.com/channel/UCumTe1N0BZFvYRzO_3OW93w  
+
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
