@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Fix an Issue with Installing an Extension in OpenCart"
-author: anant
+author: Anant
 categories: [ Jekyll, tutorial ]
 image: assets/images/5.jpg
 ---

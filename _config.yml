@@ -6,9 +6,9 @@ baseurl: "/affiliates-jekyll-theme"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: Anant
 paginate: 30
-disqus: 'demowebsite'
+disqus: 'codeeshop'
 locale: en_us
 lang: en_us
 feed_items: 10
@@ -21,11 +21,11 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-113961478-1
+ganalytics: UA-XXXXXXXXX-X
 
 # Authors
 authors:
-  anant:
+  Anant:
     name: Code-E-Shop
     display_name: Anant
     avatar: 'assets/images/me_github_profile.png'
