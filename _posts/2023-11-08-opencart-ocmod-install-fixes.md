@@ -23,4 +23,4 @@ I hope this helps!
 
 If you have any questions, please feel free to leave a comment below.
 
-<a href="https://github.com/ECodeeshop/oc-module-installation-fix/archive/refs/tags/v1.0.0.zip" class="btn btn-dark text-white px-5 btn-lg" download>Download</a>
+<a href="https://github.com/ECodeeshop/oc-extension-installation-fix/archive/refs/tags/v1.0.0.zip" class="btn btn-dark text-white px-5 btn-lg" download>Download</a>
