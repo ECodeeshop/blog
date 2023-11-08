@@ -1,4 +1,4 @@
-title: "Affiliates"
+title: "Code-E-Shop"
 email: sales@codeeshop.com
 contact_us_submit: https://codeeshop.com/module/ces_github/api
 timezone: UTC
@@ -21,7 +21,7 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-XXXXXXXXX-X
+ganalytics: G-04780F3VCL
 
 # Authors
 authors:
