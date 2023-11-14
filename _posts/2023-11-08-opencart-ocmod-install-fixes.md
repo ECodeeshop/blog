@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Fix an Issue with Installing an Extension in OpenCart"
-author: anant
+author: Anant
 categories: [ opencart, opencart v3, issue fix, Github, Tutorial ]
 image: assets/images/5.jpg
 ---

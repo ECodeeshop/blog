@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Revolutionizing Design Workflow: Unleashing the Power of Canva Automation"
-author: anant
+author: Anant
 categories: [ chrome, extension, canva, automation ]
 image: assets/images/5.jpg
 ---
