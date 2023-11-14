@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Fix an Issue with Installing an Extension in OpenCart"
 author: anant
-categories: [ opencart, opencart v3, issue fix ]
+categories: [ opencart, opencart v3, issue fix, Github, Tutorial ]
 image: assets/images/5.jpg
 ---
 
@@ -23,4 +23,4 @@ I hope this helps!
 
 If you have any questions, please feel free to leave a comment below.
 
-<a href="https://github.com/ECodeeshop/oc-module-installation-fix/archive/refs/tags/v1.0.0.zip" class="btn btn-dark text-white px-5 btn-lg" download>Download</a>
+<a href="https://github.com/ECodeeshop/oc-extension-installation-fix/archive/refs/tags/v1.0.0.zip" class="btn btn-dark text-white px-5 btn-lg" download>Download</a>
