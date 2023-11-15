@@ -49,4 +49,6 @@ Try Canva Automation today to witness how it can transform your design workflow,
 
 If you have any questions, please feel free to leave a comment below.
 
-<a href="https://chromewebstore.google.com/detail/cigjjdmdkbhkimhhbghmlkabcnloifif" class="btn btn-dark text-white px-5 btn-lg">Chrome Store Link(Live Soon)</a>
+<a href="https://www.canva.com/design/DAF0E_pe3j8/rJ8_flRGdbI0tspcGMyplQ/view?mode=preview" class="btn btn-dark text-white px-5 btn-lg">Test Template</a>
+
+<a href="https://chromewebstore.google.com/detail/cigjjdmdkbhkimhhbghmlkabcnloifif" class="btn btn-dark text-white px-5 btn-lg">Chrome Store Link</a>
