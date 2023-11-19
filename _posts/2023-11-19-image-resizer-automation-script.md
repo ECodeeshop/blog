@@ -18,7 +18,7 @@ This script automatically resizes images to multiple predefined sizes. It can be
 3. For each predefined size, the script creates a new resized image file with the specified dimensions.
 4. The resized images are saved in a separate output directory.
 
-You can edit this in params.js file
+You can edit script configuration in params.js file
 
 ### Benefits of using an image resizer automation script:
 
