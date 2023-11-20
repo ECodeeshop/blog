@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unleash the Power of Fiverr Plus Chrome Extension: Manage Conversations, Enhance Workflow"
+title:  "Fiverr Plus Chrome Extension: Manage Conversations, Enhance Workflow"
 author: Anant
 categories: [ chrome, extension, fiverr, plus, chat, backup, csv, pdf, automation ]
 image: assets/images/5.jpg
@@ -35,7 +35,7 @@ Download the extension today and experience the transformative power of streamli
 Embrace efficiency, organization, and data-driven insights, taking your Fiverr journey to new heights.
 Join the growing community of satisfied users and revolutionize your Fiverr experience with Fiverr Plus Chrome Extension.
 
-##### Conclusion
+### Conclusion
 Try Fiverr Plus today to witness how it can transform your design workflow, saving time and boosting productivity. For any questions or queries, feel free to reach out to us at sales@codeeshop.com. Thank you for watching!
 
 If you have any questions, please feel free to leave a comment below.
