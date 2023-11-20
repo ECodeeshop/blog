@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Fiverr Plus Chrome Extension: Manage Conversations, Enhance Workflow"
+title:  "Fiverr Plus Chrome Extension: Backup Conversations, Enhance Workflow"
 author: Anant
 categories: [ chrome, extension, fiverr, plus, chat, backup, CSV, PDF, automation ]
 image: assets/images/5.jpg
 ---
 
 ### Introduction:
-In the dynamic world of Fiverr, effective communication is the cornerstone of success. However, navigating through numerous conversations across various projects can be time-consuming and challenging. Enter Fiverr Plus Chrome Extension, your one-stop solution for streamlined communication management and enhanced workflow optimization.
+In the dynamic world of Fiverr, effective communication is the cornerstone of success. However, navigating through numerous conversations across various projects can be time-consuming and challenging. Enter Fiverr Plus Chrome Extension, your one-stop solution for streamlined communication management, backup creation and enhanced workflow optimization.
 
 ### Youtube 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/" title="Fiverr Plus Chrome Extension" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -15,7 +15,7 @@ In the dynamic world of Fiverr, effective communication is the cornerstone of su
 ### Streamlined Conversation Management:
 
 Effortlessly organize your Fiverr conversations with the extension's intuitive folder and file structure.
-Seamlessly process CSV and ZIP files, ensuring compatibility with your preferred file formats.
+Seamlessly process CSV, XLSX and PDF files, ensuring compatibility with your preferred file formats.
 Fetch messages from buyer-seller conversations, providing a centralized hub for all your interactions.
 
 ### Advanced Filtering and Data Export:
