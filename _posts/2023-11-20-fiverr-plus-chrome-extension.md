@@ -2,7 +2,7 @@
 layout: post
 title:  "Fiverr Plus Chrome Extension: Manage Conversations, Enhance Workflow"
 author: Anant
-categories: [ chrome, extension, fiverr, plus, chat, backup, csv, pdf, automation ]
+categories: [ chrome, extension, fiverr, plus, chat, backup, CSV, PDF, automation ]
 image: assets/images/5.jpg
 ---
 
