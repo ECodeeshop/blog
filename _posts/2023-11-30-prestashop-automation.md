@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Prestashop Automation"
+title:  "Prestashop Automation | Chrome | Register | Login | Order"
 author: Anant
 categories: [ prestashop, addon, module, extension, automation, chromium, chrome, test-tools, register, login ]
 image: assets/images/5.jpg
