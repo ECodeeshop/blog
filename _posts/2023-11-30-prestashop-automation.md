@@ -10,7 +10,7 @@ image: assets/images/5.jpg
 In the dynamic world of ecommerce, streamlining order processing, increasing customer interactions and faster product deployment is crucial for business success. Prestashop Automation emerges as a revolutionary tool, empowering businesses and developers to automate tasks, enhance development experience, and reduce build time with automation tests.
 
 ### Youtube 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/3DNpoMHPrlw" title="Prestashop Automation Script" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/lBE73Au6gXk" title="Prestashop Automation Script" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Unleashing Canva Automation
 
@@ -36,5 +36,23 @@ In today's competitive ecommerce landscape, businesses and developers must embra
 Try Prestashop Automation today to witness how it can transform your design workflow, saving time and boosting productivity. For any questions or queries, feel free to reach out to us at sales@codeeshop.com. Thank you for watching!
 
 If you have any questions, please feel free to leave a comment below.
+
+```
+node customer-order.js --website=http://psdemo.codeeshop.com/ --no_of_customer=1 --min_order_amount=50 --login_password=demodemo@1234 --no-input
+```
+
+#### Params Info
+--website: Website URL where you want to run script for
+
+--no_of_customer: Number to customers to register in the website
+
+--min_order_amount: Minimum Order Amount needed in the order
+
+--login_password: Default Login Password for the customer to register
+
+--login_email: If email is already registered than pass this param with value and script will not register new customer and will login instead 
+
+ --no-input: To remove prompting for every value and running the script code in one line ( as shown in above mentioned command ) 
+ 
 
 <a href="https://codeeshop.com/store/129-prestashop-automation.html" class="btn btn-dark text-white px-5 btn-lg">Store Link</a>
