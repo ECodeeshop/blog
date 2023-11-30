@@ -26,11 +26,11 @@ To maintain flexibility and prevent unnecessary code changes, Prestashop Automat
 #### Multi-User Script for Efficient Management
 Prestashop Automation's multi-user script allows to register multiple customer without running script multiple times. This collaborative approach streamlines operations and maximizes productivity.
 
-##### A Game-Changer for Ecommerce Businesses
+#### A Game-Changer for Ecommerce Businesses
 
 Prestashop Automation stands as a game-changer for ecommerce businesses, offering a comprehensive solution to automate tasks, enhance customer experience, and boost sales. With its ability to streamline order processing, enforce minimum order amounts, and enable multi-user script management, Prestashop Automation empowers businesses and developers to achieve operational excellence and drive growth.
 
-##### Embrace Automation and Unleash Growth
+#### Embrace Automation and Unleash Growth
 In today's competitive ecommerce landscape, businesses and developers must embrace automation to streamline operations and enhance productivity. Prestashop Automation emerges as a powerful tool, providing businesses and developers with the capabilities to automate tasks, improve efficiency, and unlock new levels of success.
 
 Try Prestashop Automation today to witness how it can transform your design workflow, saving time and boosting productivity. For any questions or queries, feel free to reach out to us at sales@codeeshop.com. Thank you for watching!
