@@ -7,3 +7,8 @@ canva_automation:
 fiverr_plus:
 - title: Fiverr Plus
   uninstall_form_url: "https://docs.google.com/forms/d/e/1FAIpQLScrNceZFDtjPtVMUD6eJjGjH0fcO6rNXCvTJtxhJoh1EovA2g/viewform"  
+
+spotify_plus:
+- title: Spotify Plus
+  uninstall_form_url: "https://docs.google.com/forms/d/e/1FAIpQLScDlO3nD8pBnh1U1d9oaFC92iDlhCz-UpJMlwUdFfA_Vto6hg/viewform"  
+
