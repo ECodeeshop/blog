@@ -15,7 +15,7 @@ Appium scripts, a powerful tool for automating mobile app interactions, can be u
 Currently, the Appium script functionality is under development, but its potential is undeniable. Once fully developed, users will be able to effortlessly transfer playlists between Spotify and other apps, creating a unified music experience.
 
 ### Youtube 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/3DNpoMHPrlw" title="Spotify Plus Chrome Extension" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/ajximkBmuXY" title="Spotify Plus Chrome Extension" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Benefits of Spotify Plus
 
