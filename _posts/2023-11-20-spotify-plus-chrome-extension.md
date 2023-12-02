@@ -32,4 +32,5 @@ If you have any questions, please feel free to leave a comment below.
 
 **Note:** We will work on the platform with the most votes. Please let us know your preferred platform and we will prioritize the development accordingly.
 
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdm_kFuk8J3JZczu_6D8cytWC4a9t0ZL0gmipsaZqatNruNOA/viewform?usp=pp_url" class="btn btn-dark text-white px-5 btn-lg">Google Form Link</a>
 <a href="https://chromewebstore.google.com/detail/gmlachfnoaahojpjdonglbjbammnlomo" class="btn btn-dark text-white px-5 btn-lg">Chrome Store Link</a>
