@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Email Export Tool"
+title:  "Email Export Tool: Chrome Extension"
 author: Anant
 categories: [ chrome, extension, email, plus, gmail, export, pdf, csv, comma, text, json, backup, automation ]
 image: assets/images/5.jpg
@@ -32,11 +32,11 @@ Enter this powerful Chrome extension, designed to seamlessly export email and na
 
 **Installation:** Install the Chrome extension from the Chrome Web Store.
 
-Authorization: Open URL https://mail.google.com/mail/u/0/#all
+**Authorization:** Open URL https://mail.google.com/mail/u/0/#all
 
-Export Initiation: Click the "Start Process" button to initiate the data extracting process.
+**Export Initiation:** Click the "Start Process" button to initiate the data extracting process.
 
-File Saving: Save the exported file to your preferred location on your computer.
+**File Saving:** Save the exported file to your preferred location on your computer.
 
 This Chrome extension empowers Gmail users to effortlessly export their contact data in various formats, enhancing data management and accessibility. With its user-friendly interface, customization options, and privacy-focused approach, this extension is an invaluable tool for individuals and businesses alike.
 
