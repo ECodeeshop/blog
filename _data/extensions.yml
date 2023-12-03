@@ -11,4 +11,8 @@ fiverr_plus:
 spotify_plus:
 - title: Spotify Plus
   uninstall_form_url: "https://docs.google.com/forms/d/e/1FAIpQLScDlO3nD8pBnh1U1d9oaFC92iDlhCz-UpJMlwUdFfA_Vto6hg/viewform"  
+  
+email_export_tool:
+- title: Email Export Tool
+  uninstall_form_url: "https://docs.google.com/forms/d/e/1FAIpQLSfL3a18-_LaP9EsYbDp94Yk32TjBHxGa63A7ycU7IMORU_Zew/viewform"  
 
