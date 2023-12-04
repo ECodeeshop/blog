@@ -8,11 +8,11 @@ comments: false
 **Last updated**  
 December 5 2023
 
-**Introduction**
+### Introduction
 
 Code-E-Shop ("we", "us", or "our") respects the privacy of our users. This Privacy Policy explains how we collect, use, and share information about users of our All Tools/Software/Chrome Extension and Services ("Apps").
 
-**Information We Collect**
+### Information We Collect
 
 We collect the following information from users of our Apps:
 
@@ -22,7 +22,7 @@ We collect the following information from users of our Apps:
 * Payment information: If you make a purchase in one of our Apps, we will collect your payment information, such as your credit card number and billing address.
 * Third-party login information: If you choose to log in to one of our Apps using a third-party service, such as Facebook or Google, we will collect the information that you have authorized the third-party service to share with us.
 
-**How We Use Your Information**
+### How We Use Your Information
 
 We use the information we collect from users of our Apps for the following purposes:
 
@@ -33,7 +33,7 @@ We use the information we collect from users of our Apps for the following purpo
 * To prevent fraud and abuse.
 * To comply with legal and regulatory requirements.
 
-**How We Share Your Information**
+### How We Share Your Information
 
 We may share your information with the following third parties:
 
@@ -41,7 +41,7 @@ We may share your information with the following third parties:
 * Advertising partners: We may share your information with third-party advertising partners who help us to deliver targeted advertising to you.
 * Other third parties: We may also share your information with other third parties with your consent or as permitted by law.
 
-**Your Choices**
+### Your Choices
 
 You have the following choices regarding your information:
 
@@ -49,22 +49,22 @@ You have the following choices regarding your information:
 * You can request to have your information deleted by contacting us at sales@codeeshop.com
 * You can opt out of receiving targeted advertising by contacting us at sales@codeeshop.com
 
-**Data Retention**
+### Data Retention
 
 We will retain your information for as long as necessary to provide and operate the Apps and to comply with our legal obligations.
 
-**Security**
+### Security
 
 We take reasonable steps to protect your information from unauthorized access, use, disclosure, alteration, or destruction. However, no method of transmission over the internet or electronic storage is 100% secure. Therefore, we cannot guarantee the absolute security of your information.
 
-**Changes to This Privacy Policy**
+### Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. If we make any changes to this Privacy Policy, we will post the updated Privacy Policy on our website.
 
-**Contact Us**
+### Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at sales@codeeshop.com
 
-**Disclaimer**
+### Disclaimer
 
 We take reasonable steps to protect your information from unauthorized access, use, or disclosure. However, we cannot guarantee the absolute security of your information. You agree that we are not liable for any damages or losses that may result from the collection, use, or sharing of your information.
